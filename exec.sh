@@ -10,7 +10,7 @@ then
     echo 1 >> $path/status.txt
     notify-send -t 3000 -i face-laughing "Keyboard enabled!"
 else
-    # xinput float 15
+    xinput float 15
     > $path/status.txt
     echo 0 >> $path/status.txt
    notify-send -t 3000 -i error "Keyboard disabled!"
