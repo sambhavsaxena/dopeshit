@@ -1,7 +1,6 @@
 #!/bin/bash
 
 path=$(pwd)
-dir="${PWD##*/}"
 status=`cat $path/status.txt`
 if [ $status == 0 ]
 then
