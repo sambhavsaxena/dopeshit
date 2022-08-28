@@ -1,5 +1,5 @@
 # shell-utilities
-very basic set of utilities for linux users, this one to toggle your keyboard for cleaning purposes.
+very basic set of utilities for linux users, this one to toggle your keyboard before cleaning.
 
 ![test](test.gif)
 
