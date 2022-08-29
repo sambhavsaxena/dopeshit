@@ -3,7 +3,7 @@ Basic set of utilities for linux users.
 
 
 ### 1) Toggle keyboard accessibility
-![test](test.gif)
+![test](resources/test.gif)
 
 ## Usage
 * Get the local id for your hardware keyboard by running `xinput` in the terminal.
@@ -16,7 +16,7 @@ Basic set of utilities for linux users.
 
 So I was working with hash tables and found out that there could be a data structure that could perform insert, delete and find operations in constant time.
 
-Check out [this](constantxd.cpp) file for better understanding.
+Check out [this](code/constantxd.cpp) file for better understanding.
 
 ### Contributing Guide
 Raise your pr's i'll merge if they're useful. easy.
