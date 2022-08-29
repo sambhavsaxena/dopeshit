@@ -1,4 +1,4 @@
-# shell-utilities
+# Dopeshit
 Dope set of utilities for linux users.
 
 #### 1) Togglekeys
