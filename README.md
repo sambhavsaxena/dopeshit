@@ -1,7 +1,8 @@
 # shell-utilities
 Dope set of utilities for linux users.
 
-#### 1) Toggle keyboard accessibility
+#### 1) Togglekeys
+Toggle your keyboard accessibility while cleaning. No more unnecessary clicks and toggles.
 ![test](resources/test.gif)
 
 ###### Usage
