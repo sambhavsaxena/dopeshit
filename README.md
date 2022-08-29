@@ -1,5 +1,5 @@
 # Dopeshit
-Dope set of utilities for linux users.
+Dope set of utilities for linux users and people who understand code.
 
 #### 1) Togglekeys
 Toggle your keyboard accessibility while cleaning. No more unnecessary clicks and toggles.
