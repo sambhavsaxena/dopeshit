@@ -3,7 +3,7 @@ Dope set of utilities for linux users and people who understand code.
 
 #### 1) Togglekeys
 Toggle your keyboard accessibility while cleaning. No more unnecessary clicks and toggles.
-![test]([https://cdn.statically.io/gh/sambhavsaxena/xopexhit/blob/main/resources/test.gif](https://raw.githubusercontent.com/sambhavsaxena/xopexhit/main/resources/test.gif))
+![test](https://raw.githubusercontent.com/sambhavsaxena/xopexhit/main/resources/test.gif)
 
 ###### Usage
 * Get the local id for your hardware keyboard by running `xinput` in the terminal.
