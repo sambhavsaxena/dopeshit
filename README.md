@@ -8,7 +8,7 @@ A simple tool for using ChatGPT on command line, built with Golang.
 
 ###### Usage
 
-- Compile the source file here with Go compiler.
+- Compile the source file [here](https://github.com/sambhavsaxena/dopeshit/blob/main/gpt-cli-toolkit/main.go) with Go compiler.
 - Execute the binary directly using the terminal.
 
 #### 1) Togglekeys
