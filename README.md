@@ -6,6 +6,12 @@ Dope set of utilities for linux users and people who understand code.
 
 A simple tool for using ChatGPT on command line, built with Golang.
 
+<div align="center">
+
+https://github.com/sambhavsaxena/dopeshit/assets/76242518/611ac915-5ac4-4cae-9fd9-0f60892d4dfc
+
+</div>
+
 ###### Usage
 
 - Compile the source file [here](https://github.com/sambhavsaxena/dopeshit/blob/main/gpt-cli-toolkit/main.go) with Go compiler.
