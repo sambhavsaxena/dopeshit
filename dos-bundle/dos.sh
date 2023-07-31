@@ -1,5 +1,5 @@
 # file: userstats.bin
-# Usage: chmod +x runtime.sh && ./runtime.sh
+# Usage: chmod +x dos.sh && ./dos.sh
 
 !/bin/bash
 if ! command -v gcc &> /dev/null
