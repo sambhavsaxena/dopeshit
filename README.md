@@ -36,6 +36,10 @@ So I was working with hash tables and found out that there could be a data struc
 
 Check out [this](code/constantxd.cpp) file for better understanding.
 
+#### 3) DDOS attack bundle for VPS
+
+Visit [this](https://github.com/sambhavsaxena/dopeshit/tree/main/dos-bundle) directory for further instructions.
+
 ## Contributing Guide
 
 Raise your pr's I'll merge if they're useful. easy.
