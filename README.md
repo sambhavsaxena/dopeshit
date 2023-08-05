@@ -2,7 +2,7 @@
 
 Dope set of utilities for linux users and people who understand code.
 
-#### 0) ChatGPT CLI tool
+#### 1) ChatGPT CLI tool
 
 A simple tool for using ChatGPT on command line, built with Golang.
 
@@ -17,7 +17,19 @@ https://github.com/sambhavsaxena/dopeshit/assets/76242518/611ac915-5ac4-4cae-9fd
 - Compile the source file [here](https://github.com/sambhavsaxena/dopeshit/blob/main/gpt-cli-toolkit/main.go) with Go compiler.
 - Execute the binary directly using the terminal.
 
-#### 1) Togglekeys
+#### 2) DDOS attack bundle for VPS
+
+Visit [this](https://github.com/sambhavsaxena/dopeshit/tree/main/dos-bundle) directory for further instructions.
+
+#### 3) git-dump
+
+A simple bash script for getting Github logs and statistics directly in your terminal. Try execute [this](https://github.com/sambhavsaxena/dopeshit/blob/main/git-dump.sh) file for more information.
+
+<div align="center">
+
+</div>
+
+#### 4) Togglekeys
 
 Toggle your keyboard accessibility while cleaning. No more unnecessary clicks and toggles.
 ![test](https://raw.githubusercontent.com/sambhavsaxena/xopexhit/main/resources/test.gif)
@@ -30,15 +42,11 @@ Toggle your keyboard accessibility while cleaning. No more unnecessary clicks an
 - Replace the current path in the `.desktop` file.
 - Add the executable to your workspace menubars for easy access.
 
-#### 2) Data structure with O(1) time for `n` inputs
+#### 5) Data structure with O(1) time for `n` inputs
 
 So I was working with hash tables and found out that there could be a data structure that could perform insert, delete and find operations in constant time.
 
 Check out [this](code/constantxd.cpp) file for better understanding.
-
-#### 3) DDOS attack bundle for VPS
-
-Visit [this](https://github.com/sambhavsaxena/dopeshit/tree/main/dos-bundle) directory for further instructions.
 
 ## Contributing Guide
 
