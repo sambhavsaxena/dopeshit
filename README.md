@@ -4,13 +4,15 @@ Dope set of utilities for linux users and people who understand basics of comput
 
 - [ChatGPT CLI tool](/gpt-cli-toolkit/)
 
-- [`git-dump` script](/git-dump/)
+- [git-dump script](/git-dump/)
+
+- [script for checking node health](/node-health/)
 
 - [DDOS attack bundle for VPS](/dos-bundle/)
 
 - [Togglekeys](/togglekeys/)
 
-- [Data structure with O(1) time for `n` inputs](/code/)
+- [Data structure with O(1) time for n inputs](/code/)
 
 ## Contributing Guide
 
