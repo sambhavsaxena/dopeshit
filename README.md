@@ -6,8 +6,6 @@ Dope set of utilities for linux users and people who understand basics of comput
 
 - [`git-dump` script](/git-dump/)
 
-- [`node-health` script](/node-health/)
-
 - [DDOS attack bundle for VPS](/dos-bundle/)
 
 - [Togglekeys](/togglekeys/)
