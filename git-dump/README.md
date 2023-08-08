@@ -4,7 +4,6 @@ A simple bash script for getting Github logs and statistics directly in your ter
 
 <div align="center">
 
-
 https://github.com/sambhavsaxena/dopeshit/assets/76242518/a3dae7ed-f359-489f-b953-e403e64e046c
 
 </div>
