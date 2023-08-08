@@ -4,4 +4,10 @@ A simple bash script for checking and logging a node status and health (includin
 
 <div align="center">
 
+
+
+https://github.com/sambhavsaxena/dopeshit/assets/76242518/09075626-af42-4a71-a85f-f85d93d73783
+
+
+
 </div>
