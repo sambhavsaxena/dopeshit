@@ -1,7 +1,7 @@
 # file: userstats.bin
 # Usage: chmod +x dos.sh && ./dos.sh
 
-!/bin/bash
+#!/bin/bash
 if ! command -v gcc &> /dev/null
 then
     echo "gcc could not be found, please install gcc and try again"
@@ -15,7 +15,6 @@ if [[ "$OSTYPE" == "msys" ]]; then
     exit 0
 fi
 
-//check if os is linux
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
     echo "Linux detected"
     gcc -o main main.c
