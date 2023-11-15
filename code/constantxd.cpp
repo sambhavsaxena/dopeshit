@@ -1,6 +1,6 @@
 /*
     Code by Sambhav Saxena
-    Github: @samisthatsameguy
+    Github: @sambhavsaxena
 */
 
 #include <bits/stdc++.h>
