@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Name=Toggle Keys
+Comment=Use this script to toggle keyboard accessibility
+Exec=/path-to-the-folder/togglekeys/exec.sh
+Icon=/path-to-the-folder/togglekeys/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
