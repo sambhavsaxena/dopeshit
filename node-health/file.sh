@@ -4,7 +4,7 @@
 #
 # Author: Sambhav Saxena
 # Date: 8th August, 2023
-# This script provides the user with node health details.
+# This script provides the user with system health details.
 #
 # Version: 1.0.0
 #
@@ -42,3 +42,4 @@ printf "\n\n---------------------------------------- $ EOF $ -------------------
 # top -n 1 -b | head -n 20
 
 # End of script
+
